@@ -10,3 +10,9 @@ To switch between Standard pagination, arrow pagination and more is very easy(ju
 Support available 24h/24h You have 6 css themes to choose the color you like or you can make your own css theme.
 
 Some css rules are available only on supported browsers!
+
+# Demo:
+https://flester.ro/lab/pagination/
+
+# Patreon
+<a href="https://www.patreon.com/Flesteriulian">https://www.patreon.com/Flesteriulian</a>
