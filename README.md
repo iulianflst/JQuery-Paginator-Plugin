@@ -16,3 +16,11 @@ https://flester.ro/lab/pagination/
 
 # Patreon
 <a href="https://www.patreon.com/Flesteriulian">https://www.patreon.com/Flesteriulian</a>
+
+# License
+
+<h3>License</h3>
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+<h3>License For patreons</h3>
+Free to use it in any way except selling just this plugin 
